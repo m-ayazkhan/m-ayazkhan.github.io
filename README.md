@@ -5,7 +5,7 @@ Economist | Development Economics | Agricultural & Environmental Economics
 
 🌍 Based in France  
 📧 m.ayaz@univ-pau.fr  
-🌐 Website: https://Ayaz-Khan.github.io  
+🌐 Website: https://m-ayazKhan.github.io  
 🔗 LinkedIn: https://www.linkedin.com/in/ayaz-khan-12b0b780  
 
 ---
@@ -92,7 +92,7 @@ Eklore-ed School of Management, France (2023–2026)
 
 ## 📄 CV
 
-👉 [Download CV](https://Ayaz-Khan.github.io/assets/Ayaz_CV.pdf)
+👉 [Download CV](https://m-ayazKhan.github.io/assets/Ayaz_CV.pdf)
 
 ---
 
