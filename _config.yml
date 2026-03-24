@@ -1,0 +1,13 @@
+title: Muhammad Ayaz
+description: Economist | Development & Agricultural Economics
+theme: minima
+
+author:
+  name: Muhammad Ayaz
+  email: m.ayaz@univ-pau.fr
+
+header_pages:
+  - cv.md
+  - publications.md
+
+markdown: kramdown
