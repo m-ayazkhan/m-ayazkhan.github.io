@@ -1,4 +1,4 @@
-# Muhammad Ayaz, PhD
+
 
 Economist | Development Economics | Agricultural Economics
 
