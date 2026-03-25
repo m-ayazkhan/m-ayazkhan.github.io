@@ -13,4 +13,4 @@ header_pages:
   - teaching.md
   
 
-markdown: kramdown
+show_excerpts: true
