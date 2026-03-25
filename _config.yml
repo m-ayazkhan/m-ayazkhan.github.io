@@ -10,5 +10,6 @@ header_pages:
   - cv.md
   - publications.md
   - conferences.md
+  - teaching.md
 
 markdown: kramdown
