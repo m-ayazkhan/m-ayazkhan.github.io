@@ -40,17 +40,17 @@ I am an applied economist specializing in **development economics, agricultural 
 
 ## 📊 Research Impact
 
-- 📈 Google Scholar Profile:  
-  https://scholar.google.com/citations?user=vDB0ClQAAAAJ  
+- 📈 Google Scholar Profile: 🌐 [Google Scholar](https://scholar.google.fr/citations?user=vDB0ClQAAAAJ) 
 
-- 🎓 Citation metrics (automatically updated on Google Scholar):
-  - Total citations  
-  - h-index  
-  - i10-index  
+- 🎓 Citation metrics :
+  - Total citations  **119**
+  - h-index          **6**
+  - i10-index        **4**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=m-ayazKhan)
 ![GitHub followers](https://img.shields.io/github/followers/m-ayazKhan)
 
+👉 Full list: [Publications](publications.md)
 ---
 
 ## CV
