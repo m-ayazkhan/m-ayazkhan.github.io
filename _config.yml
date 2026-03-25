@@ -1,6 +1,8 @@
+title: Muhammad Ayaz, PhD
 description: Economist | Development & Agricultural Economics
 theme: minima
-
+author:
+ name: Muhammad Ayaz
 
   email: m.ayaz@univ-pau.fr   and ayaznasar@gmail.com
 
@@ -10,6 +12,7 @@ header_pages:
   - conferences.md
   - research.md
   - teaching.md
+  - awards.md
   
 
 show_excerpts: true
