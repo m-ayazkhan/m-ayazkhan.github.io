@@ -2,7 +2,7 @@
 Economist | Development Economics | Agricultural & Environmental Economics  
 
 🌍 Based in France  
-📧 m.ayaz@univ-pau.fr  
+📧 m.ayaz@univ-pau.fr  and ayaznasar@gmail.com
 🌐 Website: https://m-ayazKhan.github.io  
 🔗 LinkedIn: https://www.linkedin.com/in/ayaz-khan-12b0b780  
 
@@ -40,7 +40,7 @@ Eklore-ed School of Management, France (2023–2026)
 - **Ali et al. (2024)** – *Information Economics and Policy*  
 - **Ayaz & Mughal (2022)** – *Development Economics Review*  
 
-👉 Full list: https://Ayaz-Khan.github.io/publications
+👉 Full list: https://m-ayazKhan.github.io/publications
 
 ---
 
@@ -82,7 +82,7 @@ Eklore-ed School of Management, France (2023–2026)
 
 ## 🌐 Academic Profiles
 
-- Google Scholar: *(add your link)*  
+- Google Scholar: https://scholar.google.fr/citations?user=vDB0ClQAAAAJ&hl=en  
 - HAL: *(add your link)*  
 - LinkedIn: https://www.linkedin.com/in/ayaz-khan-12b0b780  
 
