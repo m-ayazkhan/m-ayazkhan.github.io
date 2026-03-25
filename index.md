@@ -1,3 +1,4 @@
+<img src="assets/profile.jpg" alt="Muhammad Ayaz" width="180" style="float:left; margin-right:20px; border-radius:10px;">
 # Muhammad Ayaz, PhD
 **Postdoctoral Research Fellow**  
 Eklore-ed School of Management, France
@@ -15,6 +16,7 @@ Economist | Development | Agricultural & Environmental Economics
 
 I am an applied economist specializing in **development economics, agricultural productivity, and environmental sustainability**. My research focuses on understanding how economic shocks, climate change, and policy interventions affect poverty, food security, and inequality.
 
+<div style="clear: both;"></div>
 ---
 
 ## Research Fields
