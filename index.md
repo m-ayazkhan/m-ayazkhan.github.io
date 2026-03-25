@@ -40,8 +40,16 @@ I am an applied economist specializing in **development economics, agricultural 
 
 ## 📊 Research Impact
 
-![Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=$.citedby&url=https://api.scholarcy.com/api/v1/profiles/YOUR_ID)
-![h-index](https://img.shields.io/badge/dynamic/json?label=h--index&query=$.hindex&url=https://api.scholarcy.com/api/v1/profiles/YOUR_ID)
+- 📈 Google Scholar Profile:  
+  https://scholar.google.com/citations?user=vDB0ClQAAAAJ  
+
+- 🎓 Citation metrics (automatically updated on Google Scholar):
+  - Total citations  
+  - h-index  
+  - i10-index  
+
+![Profile Views](https://komarev.com/ghpvc/?username=m-ayazKhan)
+![GitHub followers](https://img.shields.io/github/followers/m-ayazKhan)
 
 ---
 
