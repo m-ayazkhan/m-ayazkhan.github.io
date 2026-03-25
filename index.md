@@ -7,7 +7,7 @@ Economist | Development | Agricultural & Environmental Economics
 
 📍 France  
 📧 m.ayaz@univ-pau.fr  and  ayaznasar@gmail.com
-🌐 [Google Scholar](https://scholar.google.fr/citations?user=vDB0ClQAAAAJ) | 📄 [HAL](https://hal.science/muhammad-ayaz) | 💼 [LinkedIn](https://www.linkedin.com/in/ayaz-khan-12b0b780)
+🌐 [Google Scholar](https://scholar.google.fr/citations?user=vDB0ClQAAAAJ) | 📄 [HAL](https://hal.science/984215) | 💼 [LinkedIn](https://www.linkedin.com/in/ayaz-khan-12b0b780)
 
 ---
 
