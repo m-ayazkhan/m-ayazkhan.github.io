@@ -75,7 +75,7 @@ Eklore-ed School of Management, France (2023–2026)
 ## 🌐 Academic Profiles
 
 - Google Scholar: https://scholar.google.fr/citations?user=vDB0ClQAAAAJ  
-- HAL: *(add your link)*  
+- HAL: (https://hal.science/dashboard/index/)  
 - LinkedIn: https://www.linkedin.com/in/ayaz-khan-12b0b780  
 
 ---
