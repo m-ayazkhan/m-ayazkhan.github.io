@@ -1,5 +1,14 @@
 # Research
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)
 
+![Profile Views](https://komarev.com/ghpvc/?username=m-ayazKhan)
+![GitHub followers](https://img.shields.io/github/followers/m-ayazKhan)
+![GitHub stars](https://img.shields.io/github/stars/m-ayazKhan?affiliations=OWNER)
+
+
+## Research Visualization
+
+<iframe src="https://plotly.com/~yourplot/1.embed" width="100%" height="500"></iframe>
 ## Working Papers
 
 ### Flood Shocks and Food Security in Pakistan
