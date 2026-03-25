@@ -8,9 +8,9 @@ author:
 
 header_pages:
   - cv.md
-  - teaching.md
   - publications.md
-  
+  - conferences.md
+  - teaching.md
   
 
 markdown: kramdown
