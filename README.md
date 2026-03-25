@@ -72,14 +72,6 @@ Eklore-ed School of Management, France (2023–2026)
 
 ---
 
-## 🏆 Awards
-
-- MOPGA Postdoctoral Fellowship (France)  
-- HEC Doctoral Scholarship (Pakistan)  
-- Best Teacher Award  
-
----
-
 ## 🌐 Academic Profiles
 
 - Google Scholar: https://scholar.google.fr/citations?user=vDB0ClQAAAAJ  
