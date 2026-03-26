@@ -3,7 +3,7 @@
 **Postdoctoral Research Fellow**  
 Eklore-ed School of Management, France
 
-Economist | Development | Agricultural & Environmental Economics  
+Economist | Development | Agricultural | Environmental Economics  
 
 📍 France  
 📧 m.ayaz@univ-pau.fr  and  ayaznasar@gmail.com
