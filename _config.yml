@@ -7,11 +7,11 @@ author:
   email: m.ayaz@univ-pau.fr
 
 header_pages:
-  - cv.md
   - publications.md
   - conferences.md
   - research.md
   - teaching.md
   - awards.md
+  - cv.md
 
 show_excerpts: true
