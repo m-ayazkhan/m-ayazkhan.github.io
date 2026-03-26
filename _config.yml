@@ -1,5 +1,5 @@
 title: Muhammad Ayaz, PhD
-description: Economist | Development & Agricultural Economics
+description: Economist | Development | Agricultural | Environmental Economics
 theme: minima
 
 author:
@@ -9,7 +9,6 @@ author:
 
 
 header_pages:
-  - cv.md
   - publications.md
   - conferences.md
   - research.md
