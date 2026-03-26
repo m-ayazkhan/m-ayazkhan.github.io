@@ -32,14 +32,6 @@ Innovative Development Strategies – USAID Project
 
 ---
 
-## Awards
-
-MOPGA Postdoctoral Fellowship (France)  
-Doctoral Scholarship – Higher Education Commission Pakistan  
-Best Teacher Award – University of Balochistan
-
----
-
 ## Skills
 
 Stata  
