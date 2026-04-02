@@ -1,17 +1,35 @@
-title: "Muhammad AYAZ, PhD"
-description: Economist | Development | Agricultural | Environmental Economics
+title: "Muhammad Ayaz, PhD"
+description: "Economist | Development | Agricultural | Environmental Economics"
 theme: minima
 
+# Author profile (THIS CONTROLS SIDEBAR)
 author:
-  name: Muhammad Ayaz, PhD
-  email: m.ayaz@univ-pau.fr
+  name: "Muhammad Ayaz, PhD"
+  avatar: "/assets/profile.jpg"
+  bio: "Postdoctoral Research Fellow, Eklore-ed School of Management, France"
+  location: "France"
 
+  email: "m.ayaz@univ-pau.fr"
+  googlescholar: "https://scholar.google.fr/citations?user=vDB0ClQAAAAJ"
+  linkedin: "https://www.linkedin.com/in/ayaz-khan-12b0b780"
+  orcid: ""
+  researchgate: "https://www.researchgate.net/"
+
+# Navigation menu
 header_pages:
+  - research.md
   - publications.md
   - conferences.md
-  - research.md
   - teaching.md
   - awards.md
   - cv.md
 
+# Show excerpts
 show_excerpts: true
+
+# Plugins (safe for GitHub Pages)
+plugins:
+  - jekyll-feed
+
+# Markdown
+markdown: kramdown
