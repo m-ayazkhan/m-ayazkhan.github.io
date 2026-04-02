@@ -1,13 +1,16 @@
 title: "Muhammad Ayaz, PhD"
 description: "Economist | Development | Agricultural | Environmental Economics"
+
 remote_theme: "mmistakes/minimal-mistakes"
 
-  
-# Author profile (THIS CONTROLS SIDEBAR)
+plugins:
+  - jekyll-include-cache
+
+# Author profile (SIDEBAR)
 author:
-  name   : "Muhammad Ayaz, PhD"
-  avatar : "/assets/profile.jpg"
-  bio    : "Postdoctoral Research Fellow, Eklore-ed School of Management, France"
+  name: "Muhammad Ayaz, PhD"
+  avatar: "/assets/profile.jpg"
+  bio: "Postdoctoral Research Fellow, Eklore-ed School of Management, France"
   location: "France"
 
   links:
@@ -27,7 +30,7 @@ author:
       icon: "ai ai-open-access"
       url: "https://hal.science/984215"
 
-# Navigation menu
+# Navigation
 header_pages:
   - research.md
   - publications.md
@@ -36,14 +39,5 @@ header_pages:
   - awards.md
   - cv.md
 
-# Show excerpts
 show_excerpts: true
-
-# Plugins (safe for GitHub Pages)
-plugins:
-  - jekyll-feed
-  plugins:
-  - jekyll-include-cache
-
-# Markdown
 markdown: kramdown
