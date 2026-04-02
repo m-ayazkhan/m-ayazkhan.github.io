@@ -1,4 +1,9 @@
-## Conferences
+---
+layout: single
+title: "Conferences"
+permalink: /conferences/
+author_profile: true
+---
 
 59th Annual Meeting of the Canadian Economic Association (Québec, Canada) – 2025 
 
