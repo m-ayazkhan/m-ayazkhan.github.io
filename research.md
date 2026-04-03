@@ -27,7 +27,8 @@ This study explores the concept and policy aspects of intensive- and extensive-m
 
 [Download PDF](assets/paper2.pdf)
 
-<img src="assets/profile.jpg" alt="Research" width="250" style="float:left; margin-right:20px;">
+<img src="{{ '/assets/profile.jpg' | relative_url }}" width="250" style="float:right; margin-left:20px;">
+
 
 [See details](https://www.pakwheels.com/used-cars/toyota-passo-2010-for-sale-in-karachi-11152706)
 ---
