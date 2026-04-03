@@ -39,6 +39,7 @@ Asghar, M., **Ayaz, M.**, & Ali, S. (2025). Ecological sustainability in environ
 </span>
 
 -  **Collateral damage ? Welfare Effects of The Ukraine War on Pakistan**
+
 **Ayaz, M.**, Sers, Charlotte., Maisonnave, H., & Mughal, M. (2023). Collateral damage? Welfare Effects of The Ukraine War on Pakistan. World Development Sustainability, 3, 100082. https://doi.org/10.1016/j.wds.2023.100082. <span style="font-size:14px;">
 [See details](https://www.sciencedirect.com/science/article/pii/S2772655X2300040X)
 </span>
@@ -51,6 +52,7 @@ Asghar, M., **Ayaz, M.**, Ullah, S., Ali, S. (2024). Climate Disasters and Susta
 </span>
 
 -  **Pakistan: A Future Food and Agricultural Power in 2050?**
+
 Brun,M., **Ayaz, M.**, & Mughal, M. (2025). Pakistan, a future food and agricultural power in 2050? Feeding 2050: from fiction to reality, IRIS Club Déméter, pp 275‑298. https://doi.org/10.3917/iris.abis.2025.01.0275.  <span style="font-size:14px;">
 [See details](https://shs.cairn.info/le-demeter-2025--9782493756039-page-275?lang=fr)
 </span>
