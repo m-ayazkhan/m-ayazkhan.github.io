@@ -32,9 +32,6 @@ I am an applied economist specializing in development, agricultural, and environ
 
 ## Research Impact
 
-- **Google Scholar**:  
-  https://scholar.google.fr/citations?user=vDB0ClQAAAAJ  
-
 - **Citation metrics**:  
   - Total citations: **119**  
   - h-index: **6**  
