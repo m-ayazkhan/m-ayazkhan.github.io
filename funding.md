@@ -4,8 +4,6 @@ title: "Funding"
 permalink: /funding/
 author_p
 
-## Funding
-
 ## Research grant
 
 **2024-2025**: Postdoc Fellowship, Make Our Planet Great Again by French Ministry for Europe and Foreign Affairs, France (30 500 €)
