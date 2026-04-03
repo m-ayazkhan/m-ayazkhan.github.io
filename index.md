@@ -47,11 +47,11 @@ I am an applied economist specializing in development, agricultural, and environ
 **PhD in Economics**  
 Université de Pau et des Pays de l’Adour, France (2022)
 
-**MPhil in Applied Economics**  
+**MPhil in Applied Economics (Third Position)**  
 Applied Economics Research Centre (AERC), University of Karachi  
 
-**MA Economics**  
-University of Balochistan  
+**MA Economics (Silver Medalist)**  
+University of Balochistan, Quetta  
 
 ---
 
