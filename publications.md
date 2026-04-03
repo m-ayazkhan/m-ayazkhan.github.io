@@ -60,11 +60,29 @@ Brun,M., **Ayaz, M.**, & Mughal, M. (2025). Pakistan, a future food and agricult
 
 ## Working Papers
 
-Ayaz, M. et al.  
-Gender-specific effects of Russia-Ukraine conflict – Evidence from South Africa
+-  **Gender‑specific effects of Russia‑Ukraine conflict ‑ Evidence from South Africa**
 
-Ayaz, M.  
-Echo of the Cannons? Economic Impact of the Ukraine War on Pakistan
+**Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2024). Gender‑specific effects of
+Russia‑Ukraine conflict ‑ Evidence from South Africa. HAL Id: hal‑04535835. (First Author) <span style="font-size:14px;">
+[See details](https://hal.science/hal-04535835/)
+</span>
 
-Ayaz, M., & Mughal, M.  
-Land Inequality and Landlessness in Pakistan
+-  **Echo Of The Cannons ? Economic Impact of the Ukraine War on Pakistan ‑A macro‑Micro Simulation Analysis**
+ 
+ Ayaz, M., et al. (2022). Echo Of The Cannons ? Economic Impact of the Ukraine War on
+Pakistan ‑A macro‑Micro Simulation Analysis. hal‑03718240. (First Author)  <span style="font-size:14px;">
+[See details](https://hal.science/hal-03718240/)
+</span>
+
+-  **Land Inequality and Landlessness in Pakistan**
+  
+Ayaz, M., & Mughal, M. (2023). *Land Inequality and Landlessness in Pakistan* HAL Id:
+hal‑04004784. (First Author & corresponding author)  <span style="font-size:14px;">
+[See details](https://ideas.repec.org/p/hal/wpaper/hal-04004784.html)
+</span>
+
+-  **Farm‑size and Productivity ‑ The Role of Family Labor**
+Ayaz, M., & Mughal, M. (2022). Farm‑size and Productivity ‑ The Role of Family Labor. HAL Id: hal‑03669234. (First & corresponding author)  <span style="font-size:14px;">
+[See details](https://univ-pau.hal.science/hal-03669234)
+</span>
+
