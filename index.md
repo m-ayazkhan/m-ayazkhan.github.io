@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 ---
 
+## About me
 
 
 I am an applied economist specializing in development, agricultural, and environmental economics. My research focuses on climate shocks, food security, and rural livelihoods.
@@ -20,11 +21,11 @@ I am an applied economist specializing in development, agricultural, and environ
 ---
 
 ## Featured Research
-
-- Flood shocks and food security  
-- Land inequality and productivity  
-- Smallholder livelihoods  
-- Climate change and SDGs  
+- Agricultural productivity and land inequality
+- Climate change and sustainable development
+- Food security, poverty, and inequalities
+- Environmental sustainability
+- Flood shocks and socio-economic outcomes  
 
 👉 [See Research](research.md)
 
