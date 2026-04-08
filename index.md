@@ -3,8 +3,6 @@ layout: single
 author_profile: true
 ---
 
-<link rel="stylesheet" href="/assets/style.css">
-
 ## About me
 
 I am an applied economist specializing in development economics, agricultural productivity, and environmental sustainability. I completed my PhD in Economics from Université de Pau et des Pays de l’Adour (France) in 2022.
