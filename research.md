@@ -29,14 +29,17 @@ For more details,  <span style="font-size:14px;">
 [Click here](https://www.journals.uchicago.edu/doi/abs/10.1086/721837?journalCode=edcc)
 </span>
 
-[For working paper, click here](assets/paper1.pdf)
+
+For working paper [click here](assets/paper1.pdf)
 
 ## The Concept and Policy Implications of Measuring agricultural Land Inequality
 
 Measuring the precise nature and causes of land inequality is critical for addressing and implementing policy initiatives related to agricultural productivity, rural development income distribution. In our study, published in the “Land Use Policy” we argue that measuring land inequality solely among landowners does not provide a complete picture of land allocation among agricultural actors. We analysed land inequality (with or without the inclusion of landless peasants) as well as landlessness to present a holistic picture of land inequality across all districts of Pakistan. We developed two distinct measures of land inequality: the intensive (include only landowners) and extensive-margin (include landowners and landless peasants) land inequality. We found that inequalities measured without including landless peasants portray a completely different story of land disparities than that based on including landless workers. This study contributes to literature in terms of policy debates on land reforms, agricultural land and labour productivity, inclusive growth and inequalities. For more details, <span style="font-size:14px;">
 [Clik here](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
 </span>
-[For working paper, click here](assets/paper2.pdf)
+
+
+For working paper [click here](assets/paper2.pdf)
 
 ## Welfare and Development Outcomes in the aftermath of Economic and Climate Shocks
 
@@ -54,7 +57,8 @@ In a related study “Gender-specific effects of Russia-Ukraine conflict. Eviden
 [For more details, Click here](https://shs.cairn.info/revue-revue-deconomie-politique-2025-6-page-941?lang=fr)
 </span>
 
-[For working paper, click here](assets/paper3.pdf)
+
+For working paper [click here](assets/paper3.pdf)
 
 
 
