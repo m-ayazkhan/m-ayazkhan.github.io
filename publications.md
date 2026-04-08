@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Journal Articles
  
--  **Farm-size and Productivity – The Role of Family Labor**  
+-  ## **Farm-size and Productivity – The Role of Family Labor**  
 **Citation: Ayaz, M.**, & Mughal, M. (2024). Farm-size and Productivity – The Role of Family Labor. Economic Development and Cultural Change, 72, (2): 959-995. (First & corresponding author). <span style="font-size:14px;">
 [See details](https://www.journals.uchicago.edu/doi/abs/10.1086/721837?journalCode=edcc)
 </span>
