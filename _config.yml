@@ -6,6 +6,12 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+sass:
+  style: compressed
+
+include:
+  - assets/css
+  
 # Author profile (SIDEBAR)
 author:
   name: "Muhammad Ayaz, PhD"
