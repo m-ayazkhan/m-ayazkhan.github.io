@@ -30,7 +30,7 @@ For more details,  <span style="font-size:16px;">
 </span>
 
 
-For working paper [click here](assets/paper1.pdf)
+For working paper [Click here](assets/paper1.pdf)
 
 ## The Concept and Policy Implications of Measuring agricultural Land Inequality
 
@@ -39,7 +39,7 @@ Measuring the precise nature and causes of land inequality is critical for addre
 </span>
 
 
-For working paper [click here](assets/paper2.pdf)
+For working paper [Click here](assets/paper2.pdf)
 
 ## Welfare and Development Outcomes in the aftermath of Economic and Climate Shocks
 
@@ -57,7 +57,7 @@ For more details  <span style="font-size:16px;">
 </span>
 
 
-For working paper [click here](assets/paper3.pdf)
+For working paper [Click here](assets/paper3.pdf)
 
 
 
