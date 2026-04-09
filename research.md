@@ -19,6 +19,19 @@ My research interests lie at the intersection of agricultural economics, develop
   
 Among others, some of my key contributions to the literature are described below:
 
+
+## Working Papers
+
+-  ## **Gender‑specific effects of Russia‑Ukraine conflict ‑ Evidence from South Africa**
+
+   **Citation: Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2024). Gender‑specific effects of
+Russia‑Ukraine conflict ‑ Evidence from South Africa. HAL Id: hal‑04535835. (First Author) <span style="font-size:14px;">
+[See details](https://hal.science/hal-04535835/)
+</span>
+
+
+
+
 ## Farm Productivity, Labour Allocation, and market imperfections
 A central contribution of this research lies in how farm productivity in relation to farm size changes if we properly account for the farm family labour and agricultural labour market imperfection due to cultural barriers. In our paper published in Economic Development and Cultural Change (2024), we propose a theoretical model and provide empirical evidence supporting the importance of family labour valuation and imputation. We examine how family labour valuation at the marginal product of family labour and market wage rate can be crucial in determining the strength and direction of the association between farm size and productivity. We show how various farm productivity measures can affect the IR with respect to family labour cost evaluated at the marginal product of labour (MPL) and market wage rate (MWR). 
 
@@ -27,8 +40,9 @@ This research contributes to the literature by providing micro-founded evidence 
 [Click here](https://www.journals.uchicago.edu/doi/abs/10.1086/721837?journalCode=edcc)
 </span>
 
-
-For working paper [Click here](assets/paper1.pdf)
+For working paper,  <span style="font-size:14px;">
+[Click here](https://univ-pau.hal.science/hal-03669234)
+</span> 
 
 ## The Concept and Policy Implications of Measuring agricultural Land Inequality
 
@@ -36,8 +50,9 @@ Measuring the precise nature and causes of land inequality is critical for addre
 [Clik here](https://www.sciencedirect.com/science/article/abs/pii/S0264837723001862)
 </span>
 
-
-For working paper [Click here](assets/paper2.pdf)
+For working paper, <span style="font-size:14px;">
+[Click here](https://ideas.repec.org/p/hal/wpaper/hal-04004784.html)
+</span>
 
 ## Welfare and Development Outcomes in the aftermath of Economic and Climate Shocks
 
@@ -54,7 +69,14 @@ For more details  <span style="font-size:18px;">
 [Click here](https://shs.cairn.info/revue-revue-deconomie-politique-2025-6-page-941?lang=fr)
 </span>
 
-For working paper [Click here](assets/paper3.pdf)
+For working paper-1, <span style="font-size:14px;">
+[Click here](https://hal.science/hal-04535835/)
+</span>
+
+For working paper-2, <span style="font-size:14px;">
+[Click here](https://hal.science/hal-03718240/)
+</span>
+
 
 ## Work in Progress
 
