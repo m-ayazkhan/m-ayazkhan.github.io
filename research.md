@@ -19,19 +19,6 @@ My research interests lie at the intersection of agricultural economics, develop
   
 Among others, some of my key contributions to the literature are described below:
 
-
-## Working Papers
-
--  ## **Gender‑specific effects of Russia‑Ukraine conflict ‑ Evidence from South Africa**
-
-   **Citation: Ayaz, M.**, Martin, H., Maisonnave, H., & Mughal, M. (2024). Gender‑specific effects of
-Russia‑Ukraine conflict ‑ Evidence from South Africa. HAL Id: hal‑04535835. (First Author) <span style="font-size:14px;">
-[See details](https://hal.science/hal-04535835/)
-</span>
-
-
-
-
 ## Farm Productivity, Labour Allocation, and market imperfections
 A central contribution of this research lies in how farm productivity in relation to farm size changes if we properly account for the farm family labour and agricultural labour market imperfection due to cultural barriers. In our paper published in Economic Development and Cultural Change (2024), we propose a theoretical model and provide empirical evidence supporting the importance of family labour valuation and imputation. We examine how family labour valuation at the marginal product of family labour and market wage rate can be crucial in determining the strength and direction of the association between farm size and productivity. We show how various farm productivity measures can affect the IR with respect to family labour cost evaluated at the marginal product of labour (MPL) and market wage rate (MWR). 
 
@@ -76,7 +63,6 @@ For working paper-1, <span style="font-size:14px;">
 For working paper-2, <span style="font-size:14px;">
 [Click here](https://hal.science/hal-03718240/)
 </span>
-
 
 ## Work in Progress
 
