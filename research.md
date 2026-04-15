@@ -22,9 +22,9 @@ Among others, some of my key contributions to the literature are described below
 ## Farm Productivity, Labour Allocation, and market imperfections
 A central contribution of this research lies in how farm productivity in relation to farm size changes if we properly account for the farm family labour and agricultural labour market imperfection due to cultural barriers. In our paper published in Economic Development and Cultural Change (2024), we propose a theoretical model and provide empirical evidence supporting the importance of family labour valuation and imputation. We examine how family labour valuation at the marginal product of family labour and market wage rate can be crucial in determining the strength and direction of the association between farm size and productivity. We show how various farm productivity measures can affect the IR with respect to family labour cost evaluated at the marginal product of labour (MPL) and market wage rate (MWR). 
 
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="/assets/Figure3.png" style="width: 50%; max-width: 100%;">
-  <img src="/assets/Figure4.png" style="width: 50%; max-width: 100%;">
+<div style="display: flex; width: 100%;">
+  <img src="/assets/Figure3.png" style="width: 50%; height: auto;">
+  <img src="/assets/Figure4.png" style="width: 50%; height: auto;">
 </div>
 
 
