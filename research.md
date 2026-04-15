@@ -24,8 +24,10 @@ A central contribution of this research lies in how farm productivity in relatio
 
 <div style="display: flex;">
   <img src="{{ '/assets/Figure3.png' | relative_url }}" style="width: 50%;">
-  <img src="{{ 'assets/Figure4.png' | relative_url }}" style="width: 50%;">
+  <img src="{{ '/assets/Figure4.png' | relative_url }}" style="width: 50%;">
 </div>
+
+<img src="/assets/Figure3.jpg" alt="Research" width="370" style="float:left; margin-right:20px;">  <img src="/assets/Figure4.jpg" alt="Research" width="370" style="float:left; margin-right:20px;">
 
 
 In a related contribution published in the “Revue d’économie du développement”, 2022, I further demonstrate that family workers’ reluctance to engage in off-farm employment plays a key role in sustaining small-farm productivity advantages. We propose the cultural norms related to family honour and status as a possible explanation for the observed IR. Self-employed family farm workers are often unwilling to offer their services as paid labour to the “away farms” because of the notion of honour and social status and prefer to work on their family-owned farm even though they may obtain higher wages on away farms or from off-farm activities.
