@@ -37,14 +37,14 @@ For working paper,  <span style="font-size:14px;">
 
 Measuring the precise nature and causes of land inequality is critical for addressing and implementing policy initiatives related to agricultural productivity, rural development income distribution. In our study, published in the “Land Use Policy” we argue that measuring land inequality solely among landowners does not provide a complete picture of land allocation among agricultural actors. We analysed land inequality (with or without the inclusion of landless peasants) as well as landlessness to present a holistic picture of land inequality across all districts of Pakistan. We developed two distinct measures of land inequality: the intensive (include only landowners) and extensive-margin (include landowners and landless peasants) land inequality. We found that inequalities measured without including landless peasants portray a completely different story of land disparities than that based on including landless workers. This study contributes to literature in terms of policy debates on land reforms, agricultural land and labour productivity, inclusive growth and inequalities. 
 
-<img src="/assets/intlless.jpg" alt="Research" width="380" style="float:left; margin-right:20px;">
+<img src="/assets/intlless.jpg" alt="Research" width="800" style="float:left; margin-right:20px;">
 
 
 
 Moreover, we examine that the roots of the current patterns of land acquisition and ownership in Pakistan may be traced back to the British colonial system of land ownership and proprietorship rights in the nineteenth century and the tribal land distribution system practiced in the region. The colonial regime used land as a key tool to rule over the Indian Subcontinent. Land was used not only as a source of revenue, but also as a political instrument to control the masses and reward the elite for its pliability. We also examine how the basis of land distribution systems historically practiced in the region can determin the land inequality and landlessness in the region (Pakistan).
 The governance and the land settlement systems prevalent in the various regions during the colonial era are presented ad follows:
 
-<img src="/assets/landgov.jpg" alt="Research" width="380" style="float:left; margin-right:20px;">
+<img src="/assets/landgov.jpg" alt="Research" width="800" style="float:left; margin-right:20px;">
 
 
 For more details, <span style="font-size:18px;">
