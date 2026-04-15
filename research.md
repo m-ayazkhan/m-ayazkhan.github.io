@@ -22,12 +22,10 @@ Among others, some of my key contributions to the literature are described below
 ## Farm Productivity, Labour Allocation, and market imperfections
 A central contribution of this research lies in how farm productivity in relation to farm size changes if we properly account for the farm family labour and agricultural labour market imperfection due to cultural barriers. In our paper published in Economic Development and Cultural Change (2024), we propose a theoretical model and provide empirical evidence supporting the importance of family labour valuation and imputation. We examine how family labour valuation at the marginal product of family labour and market wage rate can be crucial in determining the strength and direction of the association between farm size and productivity. We show how various farm productivity measures can affect the IR with respect to family labour cost evaluated at the marginal product of labour (MPL) and market wage rate (MWR). 
 
-<div style="display: flex; width: 100%;">
-  <img src="/assets/Figure3.png" style="width: 50%; height: auto;">
-  <img src="/assets/Figure4.png" style="width: 50%; height: auto;">
+<div style="display: flex;">
+  <img src="{{ '/assets/Figure3.png' | relative_url }}" style="width: 50%;">
+  <img src="{{ 'assets/Figure4.png' | relative_url }}" style="width: 50%;">
 </div>
-
-
 
 
 In a related contribution published in the “Revue d’économie du développement”, 2022, I further demonstrate that family workers’ reluctance to engage in off-farm employment plays a key role in sustaining small-farm productivity advantages. We propose the cultural norms related to family honour and status as a possible explanation for the observed IR. Self-employed family farm workers are often unwilling to offer their services as paid labour to the “away farms” because of the notion of honour and social status and prefer to work on their family-owned farm even though they may obtain higher wages on away farms or from off-farm activities.
