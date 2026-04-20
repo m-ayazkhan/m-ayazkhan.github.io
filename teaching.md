@@ -23,6 +23,6 @@ author_profile: true
 - Microeconomic Theory
 
 ## Ongoing Courses
--  [Poverty and Income Distribution](https://m-ayazKhan.github.io/poverty)
+-  [Poverty and Income Distribution](https://m-ayazKhan.github.io/assets/poverty.zip)
 - Econometrics
 - Microeconomic Theory
