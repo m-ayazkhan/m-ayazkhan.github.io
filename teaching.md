@@ -13,10 +13,16 @@ author_profile: true
 
 ## Master Courses
 
--  Poverty and Income Distribution
+- Poverty and Income Distribution
 - Econometrics
 - Development Economics
 - Environmental and Resource Economics
 - Statistics
 - Research Methods
 - Applied Economics
+- Microeconomic Theory
+
+## Ongoing Courses
+- Poverty and Income Distribution
+- Econometrics
+- Microeconomic Theory
