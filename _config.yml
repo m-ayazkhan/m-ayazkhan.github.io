@@ -57,6 +57,7 @@ header_pages:
   - awards.md
   - funding.md
   - cv.md
+  - downloads.md
 
 show_excerpts: true
 markdown: kramdown
