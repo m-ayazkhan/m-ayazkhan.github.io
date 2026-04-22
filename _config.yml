@@ -57,6 +57,7 @@ header_pages:
   - teaching.md
   - awards.md
   - funding.md
+  - skills.md
   - downloads.md
 
 show_excerpts: true
