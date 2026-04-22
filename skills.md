@@ -23,13 +23,9 @@ Python
 LaTeX  
 GIS  
 Kobo‑toolbox
-
 MS Excel
-
 Satellite data
-
 Remot Sensing Data
-
 Spatial Econometric analysis
 
 - **QGIS and Google Earth Software**, Experience working on QGIS and google earth for treating vector and
