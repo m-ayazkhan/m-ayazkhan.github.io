@@ -50,13 +50,13 @@ author:
 
 # Navigation
 header_pages:
+  - positions.md
   - research.md
   - publications.md
   - conferences.md
   - teaching.md
   - awards.md
   - funding.md
-  - cv.md
   - downloads.md
 
 show_excerpts: true
