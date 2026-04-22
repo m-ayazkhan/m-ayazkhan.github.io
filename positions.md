@@ -23,13 +23,20 @@ University of Balochistan
 ## Consulting Experience
 
 Economist & Urban Development Expert  
-Micon Engineering Consultants (Govt of Sindh)
+Urban Development and Planning (Govt of Sindh)
+Micon Engineering Consultants
+
+Associate Consultant
+Feasibility study of Tourism Resorts Development (Govt of Balochistan)
+Micon Engineering Consultants 
 
 Research Consultant  
-AETS – Pakistan Microfinance Investment Company
+Micro-Finance and Rural Development in Pakistan
+Application Européenne de Technologies et de Services (AETS), France
 
-Research Consultant  
-Balochistan Education Foundation
+Research Consultant
+Research Design for Training Impact Assessment in BEF Community Schools
+Balochistan Education Foundation (BEF), Govt of Balochistan
 
 Data Analyst  
 Innovative Development Strategies – USAID Project
