@@ -16,17 +16,17 @@ institute Unitar, and UNCC :Learn Certification, Virtual
 
 ## Skills
 
-Stata  
-R 
-E‑views
-Python  
-LaTeX  
-GIS  
-Kobo‑toolbox
-MS Excel
-Satellite data
-Remot Sensing Data
-Spatial Econometric analysis
+- Stata  
+- R 
+- E‑views
+- Python  
+- LaTeX  
+- GIS  
+- Kobo‑toolbox
+- MS Excel
+- Satellite data
+- Remot Sensing Data
+- Spatial Econometric analysis
 
 - **QGIS and Google Earth Software**, Experience working on QGIS and google earth for treating vector and
 raster layers for research purposes such as mapping, network analysis, GIS coding, distance measurement,
