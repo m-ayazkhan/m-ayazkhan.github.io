@@ -1,3 +1,9 @@
+---
+layout: single
+title: "Certification & Skills"
+permalink: /skills/
+author_profile: true
+---
 
 ## Skills
 
