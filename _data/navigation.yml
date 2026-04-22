@@ -1,4 +1,6 @@
 main:
+  - title: "Positions"
+    url: /positions/
   - title: "Research"
     url: /research/
 
@@ -17,6 +19,4 @@ main:
   - title: "Funding"
     url: /funding/
 
-  - title: "Experience"
-    url: /positions/
   
