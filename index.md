@@ -40,9 +40,9 @@ My research focuses on:
 ## Research Impact
 
 - **Citation metrics**:  
-  - Total citations: **119**  
+  - Total citations: **133**  
   - h-index: **6**  
-  - i10-index: **4**
+  - i10-index: **5**
 
 ---
 
