@@ -64,9 +64,7 @@ author_profile: true
 
 
 -  Microeconomic Theory
-- 
-
-
+  
 {% raw %}
 <div style="border:1px solid #ddd; padding:20px; border-radius:10px; background:#f9f9f9;">
 
@@ -89,7 +87,6 @@ author_profile: true
 {% endraw %}
 
 - Econometrics
-
 
 {% raw %}
 <div style="border:1px solid #ddd; padding:20px; border-radius:10px; background:#f9f9f9;">
