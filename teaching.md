@@ -94,7 +94,7 @@ author_profile: true
 {% raw %}
 <div style="border:1px solid #ddd; padding:20px; border-radius:10px; background:#f9f9f9;">
 
-<h2 style="margin-top:0;">📥 Download Microeconomics Theory Course Materials</h2>
+<h2 style="margin-top:0;">📥 Download Econometrics Course Materials</h2>
 
 <p>Access lecture notes, datasets, and resources below:</p>
 
